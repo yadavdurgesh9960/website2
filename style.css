@@ -3,7 +3,7 @@
 
 *{ 
     margin:0;
-    padding: ;
+
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
@@ -14,6 +14,10 @@ body{
     width: 100%;
 }
 
+main{
+    
+    padding-top: 100px;
+}
 /* durgesh header */
 header{
     background-color: aqua;
@@ -27,8 +31,8 @@ header{
 
 }
 header img{
-    height: 60  px;
-    weight:auto;
+    height: 60px;
+    width: auto;
 }
 .a{
     color: Black;
@@ -574,3 +578,4 @@ ul li a{
     text-decoration: none;
     color: black;
 }
+
